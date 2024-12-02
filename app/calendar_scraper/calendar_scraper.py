@@ -1,4 +1,9 @@
 from test_login import login
+import sys
+import os
+
+app_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+sys.path.append(app_dir)
 
 def june(page):
     june_data = []
