@@ -1,4 +1,4 @@
-# 1) Scraper for SRMAcademia ( [Academia](https://academia.srmist.edu.in/#) )
+# Scraper for SRMAcademia ( [Academia](https://academia.srmist.edu.in/#) )
 
 # Overview
  
